@@ -1,2 +1,2 @@
 # git_for_newbie
-git and github for beginner
+The course consists of one part, the images are in the img folder
